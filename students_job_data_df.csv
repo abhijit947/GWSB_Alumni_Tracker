@@ -1,0 +1,12 @@
+GWID,Name,data_source,job_seeking_status,base_salary,Bonus,job_title,job_function,company_name,industry,job_acceptance_date,Job_at_graduation,Job_3_months,reason_not_seeking_employment,data_entry_timestamp
+G101,Chris Evans,Word of Mouth,Employed,10000.0,10000.0,A,Marketing/Sales,a,Consulting,11/11/24,Yes,Yes,,39:14.6
+G101,Chris Evans,Word of Mouth,Employed,10000.0,10000.0,A,Marketing/Sales,a,Consulting,11/11/24,Yes,Yes,,39:21.3
+G101,Chris Evans,Word of Mouth,Employed,10000.0,10000.0,A,Marketing/Sales,a,Consulting,11/11/24,Yes,Yes,,39:25.8
+G102,Robert Downey Jr,Email,Employed,10000.0,10000.0,A,Consulting,a,Consulting,2024-11-11,Yes,Yes,,2024-11-11 13:41:50.347496
+G102,Robert Downey Jr,Email,Employed,10000.0,10000.0,A,Consulting,a,Consulting,2024-11-11,Yes,Yes,,2024-11-11 13:42:03.490946
+G102,Robert Downey Jr,Email,Employed,10000.0,10000.0,A,Consulting,a,Consulting,2024-11-11,Yes,Yes,,2024-11-11 13:42:06.279025
+G102,Robert Downey Jr,Email,Employed,10000.0,10000.0,A,Consulting,a,Consulting,2024-11-11,Yes,Yes,,2024-11-11 13:42:08.990540
+G102,Robert Downey Jr,Email,Seeking Employment,,,,,,,,,,,2024-11-11 13:43:42.172160
+G102,Robert Downey Jr,Email,Not Seeking Employment,,,,,,,,,,Company-Sponsored Studies,2024-11-11 13:44:03.515350
+G104,Chris Hemsworth,Email,Employed,15000.0,13000.0,Data analyst,Human Resources,Google,Hospitality,2024-10-09,Yes,Yes,,2024-11-11 13:49:01.026884
+G106,Jeremy Renner,Email,Seeking Employment,,,,,,,,,,,2024-11-11 13:50:01.219180
